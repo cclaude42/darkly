@@ -27,7 +27,7 @@ We download the `htpasswd` file. It contains credentials :
 root:437394baff5aa33daa618be47b75cb49
 ```
 
-The password's hashed, it's an MD5. We decrypt it over at (MD5decrypt)[https://md5decrypt.net/]. We get the password in clear :
+The password's hashed, it's an MD5. We decrypt it over at [MD5decrypt](https://md5decrypt.net/). We get the password in clear :
 
 ```
 qwerty123@
